@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+}
+.flex{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    margin: 5px;
+    border: 1px grey;
+}
+
